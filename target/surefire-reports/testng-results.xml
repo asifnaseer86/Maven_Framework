@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="349" started-at="2021-06-06T16:03:05 PKT" finished-at="2021-06-06T16:03:05 PKT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="349" started-at="2021-06-06T16:03:05 PKT" finished-at="2021-06-06T16:03:05 PKT">
+      <class name="cyborgensys.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:cyborgensys.MavenJava.SeleniumTest@6536e911]" name="BrowserAutomation" duration-ms="0" started-at="2021-06-06T16:03:05 PKT" finished-at="2021-06-06T16:03:05 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:cyborgensys.MavenJava.SeleniumTest@6536e911]" name="elementsUI" duration-ms="0" started-at="2021-06-06T16:03:05 PKT" finished-at="2021-06-06T16:03:05 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- cyborgensys.MavenJava.SeleniumTest -->
+      <class name="cyborgensys.MavenJava.CheckTest">
+        <test-method status="PASS" signature="tesing()[pri:0, instance:cyborgensys.MavenJava.CheckTest@5f9d02cb]" name="tesing" duration-ms="0" started-at="2021-06-06T16:03:05 PKT" finished-at="2021-06-06T16:03:05 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesing -->
+        <test-method status="PASS" signature="tesingagain()[pri:0, instance:cyborgensys.MavenJava.CheckTest@5f9d02cb]" name="tesingagain" duration-ms="0" started-at="2021-06-06T16:03:05 PKT" finished-at="2021-06-06T16:03:05 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesingagain -->
+      </class> <!-- cyborgensys.MavenJava.CheckTest -->
+      <class name="cyborgensys.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="IOStest()[pri:0, instance:cyborgensys.MavenJava.AppiumTest@2ac273d3]" name="IOStest" duration-ms="120" started-at="2021-06-06T16:03:05 PKT" finished-at="2021-06-06T16:03:05 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOStest -->
+        <test-method status="PASS" signature="nativeAPPAndroid()[pri:0, instance:cyborgensys.MavenJava.AppiumTest@2ac273d3]" name="nativeAPPAndroid" duration-ms="0" started-at="2021-06-06T16:03:05 PKT" finished-at="2021-06-06T16:03:05 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAPPAndroid -->
+      </class> <!-- cyborgensys.MavenJava.AppiumTest -->
+      <class name="cyborgensys.MavenJava.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:cyborgensys.MavenJava.RestAPITest@63753b6d]" name="deleteTwitter" duration-ms="0" started-at="2021-06-06T16:03:05 PKT" finished-at="2021-06-06T16:03:05 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:cyborgensys.MavenJava.RestAPITest@63753b6d]" name="postJira" duration-ms="0" started-at="2021-06-06T16:03:05 PKT" finished-at="2021-06-06T16:03:05 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- cyborgensys.MavenJava.RestAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
